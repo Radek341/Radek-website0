@@ -1,4 +1,4 @@
-# Radek-website0
+# Radek-gamba
 <!--
   Slot Machine - Single-file HTML/CSS/JS
   Drop this file into a GitHub repo as `index.html` and publish with GitHub Pages (or open locally).
